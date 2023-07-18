@@ -1,4 +1,4 @@
-# Master-Slave-LFR
+# Master-Slave-Line-Following-Robot
 This projects involves two robots, a Master Robot, and a Slave Robot, implemented using Arduino UNO-R3. The Master Robot uses two IR sensors for line detection and an Ultrasonic sensor to detect obstacles. Additionally, the IR sensors are utilized as Transmitter and Receiver to enable communication between the Master and Slave Robots, allowing the Slave Robot to follow the actions of the Master Robot.
 
 Here's an overview of how the project will work:
